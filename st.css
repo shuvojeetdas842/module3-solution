@@ -1,0 +1,47 @@
+h1{
+			margin-bottom: 25px;
+			padding: 20px;
+			font-family: cursive;
+		}
+		*{
+			box-sizing: border-box;
+		}
+		section{
+			background-color: gray;
+			border: 2px solid black;
+			width: 90%;
+			
+		   margin-left: auto;
+		   margin-right: auto;
+		    margin-bottom: auto;
+		    margin-top: 20px;
+			font-family: cursive;
+			color: black;
+	        padding-left: 10px;
+		}
+	
+		.row{
+			width: 100%;
+		}
+		
+#header-nav {
+	background-color: grey;
+	border-radius: 0;
+	border: 0;
+}
+@media(max-width: 767px){
+	#collapsable-nav a{
+		color: black;
+
+	font-size: 1.2em;
+}
+}
+#collapsable-nav a{
+	font-size: 1.2em;
+}
+.co{
+	background-color: grey;
+}
+.co1{
+	background-color: black;
+}
